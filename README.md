@@ -6,7 +6,7 @@ Hi! I'm Kevin, a Computer Engineer from Tenerife currently working in [kaudal](h
 
 ### Talks & Workshops
 
-[ [Talk] Cracking de contraseñas (2019) ]('https://www.youtube.com/watch?v=XPKVVcvoRh8&ab_channel=CESINFULL')
+[ \[Talk\] Cracking de contraseñas (2019) ]('https://www.youtube.com/watch?v=XPKVVcvoRh8&ab_channel=CESINFULL')
 
 ### Projects I have been involved
 
