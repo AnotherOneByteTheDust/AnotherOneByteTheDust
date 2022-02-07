@@ -13,5 +13,6 @@ Hi! I'm Kevin, a Computer Engineer from Tenerife currently working in [kaudal](h
 ### Contact
 
 [Linkedin](https://www.linkedin.com/in/kevineliezer/)
-Send me an email to [kevineli.gp@gmail.com?](mailto:kevineli.gp@gmail.com)
+
+Send me an email to [kevineli.gp@gmail.com](mailto:kevineli.gp@gmail.com)
 
