@@ -1,4 +1,4 @@
-Hi! I'm Kevin, a Computer Engineer from Tenerife currently working in [kaudal](http://kaudal.com/) as Full Stack Developer. 
+Hi! I'm Kevin, a Computer Engineer from Tenerife currently working in [XAL Digital](https://www.xaldigital.com/) as Full Stack Developer. 
 
 ### Technologies 
 
