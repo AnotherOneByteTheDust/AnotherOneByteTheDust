@@ -8,8 +8,6 @@ Hi! I'm Kevin, a Computer Engineer from Tenerife currently working in [XAL Digit
 
 * [Talk: Cracking de contraseñas (December 2020)](https://www.youtube.com/watch?v=XPKVVcvoRh8)
 
-### Projects I have been involved
-
 ### Contact
 
 [Linkedin](https://www.linkedin.com/in/kevineliezer/)
