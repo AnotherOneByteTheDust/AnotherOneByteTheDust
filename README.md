@@ -2,7 +2,7 @@ Hi! I'm Kevin, a Computer Engineer from Tenerife.
 
 ### Technologies 
 
-### Would like to learn
+Terraform, AWS, Javascript, Python
 
 ### Talks & Workshops
 
